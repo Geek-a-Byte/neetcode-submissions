@@ -3,6 +3,7 @@
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+Note - from my personal observation, problems which got accepted on NC, might not get accepted in LC, as NC has less testcases than LC.
 
 ## What is this?
 
